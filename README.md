@@ -12,6 +12,38 @@ This project uses:
 * [bootstrap](http://getbootstrap.com/)
 * [hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack)
 
+# usage
+
+Install tools globally.
+
+```
+npm install typings webpack typescript -g
+```
+
+Install typings.
+
+```
+typings install
+```
+
+Install dependencies.
+
+```
+npm install
+```
+
+Start hacking.
+
+```
+npm start
+```
+
+Build for production.
+
+```
+webpack
+```
+
 # License
 
 This code is released under the MIT license see the LICENSE.md file for more details.
